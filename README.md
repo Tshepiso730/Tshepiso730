@@ -10,13 +10,6 @@
 
 ---
 
-## 🧑‍💻 Professional Experience Summary
-<p align="center">
-With extensive experience as a Database Administrator and Software Developer, I specialize in optimizing database performance, ensuring data security, and developing scalable web applications. I have a proven track record of collaborating with cross-functional teams to implement seamless database changes and managing cloud computing services with Azure. My expertise in Python, C#, Node.js, SQL Server, and MySQL, coupled with my knowledge of Agile methodologies and DevOps practices, allows me to deliver robust and efficient solutions.
-</p>
-
----
-
 ## 🛠️ Skills
 
 <p align="center">
