@@ -35,16 +35,6 @@ With extensive experience as a Database Administrator and Software Developer, I 
 
 ---
 
-## 🎓 Certifications
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-MTN%20Business%20App%20Academy%20Certificate-E74C3C?style=for-the-badge&labelColor=222222" alt="MTN Business App Academy Certificate" style="margin: 10px">
-  <img src="https://img.shields.io/badge/-Future%20Lead%20Challenge%20Program%20Certificate-3498DB?style=for-the-badge&labelColor=222222" alt="Future Lead Challenge Program Certificate" style="margin: 10px">
-  <img src="https://img.shields.io/badge/-Microsoft%20Certified%3A%20Azure%20Data%20Fundamentals-4CAF50?style=for-the-badge&labelColor=222222" alt="Microsoft Certified: Azure Data Fundamentals" style="margin: 10px">
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
