@@ -1,9 +1,5 @@
 <h1 align="center">👋 Hello, I'm Tshepiso Mathlore!</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tshepiso730&color=blue" alt="Profile Views"/>
-</p>
-
 ---
 
 ## 📞 Contact Information
