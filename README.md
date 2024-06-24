@@ -31,9 +31,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tshepiso730&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" style="margin-right: 4%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tshepiso730&layout=compact&theme=radical" alt="Top Languages" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tshepiso730&show_icons=true&theme=light" alt="GitHub Stats" width="48%" style="margin-right: 4%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tshepiso730&layout=compact&theme=light" alt="Top Languages" width="48%">
 </p>
+
 
 ---
 
